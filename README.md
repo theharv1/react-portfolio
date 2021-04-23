@@ -12,7 +12,7 @@
 * javascript
 
 ### deployment 
-* you can view the live application here: 
+* you can view the live application here: https://theharv1.github.io/react-portfolio/
 
 
 ## Screenshot
