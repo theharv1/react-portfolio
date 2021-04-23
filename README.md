@@ -17,4 +17,4 @@
 
 ## Screenshot
 
-![screenshot](./react-portfolio.jpeg)
+![screenshot](./img/react-portfolio.jpeg)
